@@ -1,7 +1,7 @@
 # Proxy Scraper - Java edition
-Proxy Scraper is a tool built entirely in Java to extract proxies from various website.
+Proxy Scraper is a tool used to extract proxies from various website.
 
-Current Proxy sites supported:
+Proxy sites currently supported:
 > http://www.idcloak.com/
 
 > http://givemeproxy.com/
