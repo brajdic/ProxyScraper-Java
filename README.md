@@ -1,4 +1,4 @@
-# ProxyScraper-Java
+# Proxy Scraper - Java edition
 Proxy Scraper is a tool built entirely in Java to extract proxies from various website.
 
 Current Proxy sites supported:
