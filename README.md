@@ -13,5 +13,5 @@ Proxy sites currently supported:
 > https://www.sslproxies.org/
 
  ![](http://emma.wtf/strip/ps-Java.png)
- ![](http://emma.wtf/strip/ps-Java2.png)
+ ![](http://emma.wtf/strip/ps-Java4.png)
 
